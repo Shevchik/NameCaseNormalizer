@@ -1,0 +1,5 @@
+name: NameCaseNormalizer
+main: namecasenormalizer.NameCaseNormalizer
+version: 1.0
+author: _Shevchik_
+depend: [ProtocolLib]
